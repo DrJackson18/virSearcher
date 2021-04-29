@@ -55,7 +55,7 @@ The contig file in the folder demo is used to demenstrate how to run virSearcher
 
 ``python3 predict.py -i ./demo/contigs.fasta -s ./result/contigs.csv -c 8``
 
-## Error solution
+## Error Solution
 
 If the following error message appears:
 
