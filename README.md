@@ -16,7 +16,7 @@ If the computer is equipped with GPU, install the GPU version of tensorflow. Oth
 
 ``pip3 install numpy==1.19.2 pandas==0.20.3 biopython==1.78 tensorflow-gpu==1.14.0 keras==2.3.0``
 
-* BLAST+
+* BLAST+  
 BLAST+ should be downloaded(from https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download), installed properly and the environment variable should be configured so that virSearcher can call it through the simple command "blastp" without providing any directory.
 
 ## Setup
